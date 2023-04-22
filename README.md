@@ -7,7 +7,6 @@ https://the-escape-puzzle-n22q.onrender.com/
 ## Table of Contents
 * [Description](#description)
 * [Deployed Site](#deployed-site)
-* [Screenshots](#screenshots)
 * [Installation](#installation)
 * [Tech](#tech)
 
@@ -17,22 +16,6 @@ https://the-escape-puzzle-n22q.onrender.com/
 A virtual escape room where users will have to piece together clues and riddles in order to find a key and escape before the killer gets home.  Made using the MERN Stack. 2D game played by clicking / dragging on images to find clues and figure out puzzles and riddles. App has user authentication and stores save file with progress in Mongo database.
 
 
-
-## Screenshots
-
-![Login Screen](screenshots/escapeLogin.png)
-
-![Game Info Screen](screenshots/escapeGameInfo.png)
-
-![Office](screenshots/escapeOffice.png)
-
-![Painting](screenshots/escapePainting.png)
-
-![Bookshelf](screenshots/escapeBookshelf.png)
-
-![Safe](screenshots/escapeSafe.png)
-
-![LeaderBoard](screenshots/escapeLeaderBoard.png)
 
 ## Installation
 
